@@ -1,0 +1,25 @@
+/*style index.html*/
+
+body{
+    background: rgb(0,0,0);
+background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(153,153,153,1) 35%, rgba(0,0,0,1) 100%);
+}
+
+.center {
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+    align-items: center;
+
+}
+
+
+/*style contato.html*/
+
+.center {
+    text-align: center;
+}
